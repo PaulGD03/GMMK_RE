@@ -21,7 +21,7 @@
 #define KC_SLSH_RGB 0x0E
 #define KC_RSFT_RGB 0x0F
 //
-#define KC_CAPS_RGB 0c30
+#define KC_CAPS_RGB 0x30
 #define KC_A_RGB 0x31
 #define KC_S_RGB 0x32
 #define KC_D_RGB 0x36
