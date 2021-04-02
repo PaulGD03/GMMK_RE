@@ -13,8 +13,8 @@ The required SWD pins on the GMMK PCB are:
 
 | Pin       | Testpad           | ST-Link v2 |
 | --------- | ----------------- | --------   |
-| SWDIO     | J3                | JTMS / SWD |
-| SWDCLK    | J4                | JTCK / SWC |
+| SWDIO     | J4                | JTMS / SWD |
+| SWDCLK    | J3                | JTCK / SWC |
 | VCC       | VCC               | 3V3        |
 | BOOT      | R5                | GND        |
 
