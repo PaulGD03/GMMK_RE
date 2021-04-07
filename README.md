@@ -1,9 +1,9 @@
-# GMMK_TKL_ISO
-**Reverse Engineering the Glorious GMMK TKL keyboard (ISO layout)**
+# GMMK_RE
+**Reverse Engineering the Glorious GMMK keyboards**
 
 For this procedure I am using the resources provided in the [dk63 repository by smp4488](https://github.com/smp4488/dk63).
 
-- The GMMK TKL ISO uses the eVision VS11K13A, which is a Sonix SN32F268 rebrand.
+- The GMMK uses the eVision VS11K13A, which is a Sonix SN32F268 rebrand.
 - Two support chips that control RGB are used as well, the eVison VS12L03A, a Sonix SLED1734X rebrand.
 
 ## Dumping Setup
